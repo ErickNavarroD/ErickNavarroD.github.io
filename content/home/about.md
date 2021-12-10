@@ -7,15 +7,15 @@ widget: about
 active: true
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
-title: Biography
+title: Biography 
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
-author: admin
+author: Erick
 ---
