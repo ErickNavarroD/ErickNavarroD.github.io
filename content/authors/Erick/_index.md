@@ -67,9 +67,8 @@ social:
 highlight_name: false
 ---
 
-Hi! I am Erick Navarro, a Bioinformatician from Mexico. I am currently doing my Masters in Bioinformatics at the University of British Columbia under the co-supervision of [Dr. Keegan Korthauer](https://kkorthauer.org) and [Dr. Michael Kobor](https://www.bcchr.ca/kobor-lab). Previously, as an undergrad, I was part of [Dr. Rodrigo Gonzalez-Barrios'](https://www.researchgate.net/profile/Rodrigo-Gonzalez-Barrios) lab at the Instituto Nacional de Cancerología in Mexico City. 
+Hi! I am Erick Navarro, a biologist from Mexico. I am currently doing my Masters in Bioinformatics at the University of British Columbia under the co-supervision of [Dr. Keegan Korthauer](https://kkorthauer.org) and [Dr. Michael Kobor](https://www.bcchr.ca/kobor-lab). Previously, as an undergrad, I was part of [Dr. Rodrigo Gonzalez-Barrios'](https://www.researchgate.net/profile/Rodrigo-Gonzalez-Barrios) lab at the Instituto Nacional de Cancerología in Mexico City. 
 
-I am interested in integrating multi-omics data to get a deeper understanding of the epigenetic landscape and its role in complex human phenotypes. Currently, my research is focused on dissecting the impact of environmental exposures and genotype on DNA methylation variability in early life to understand how and under which conditions these variables may work together or separately to produce changes in this epigenetic mark.  
-
+I am interested in integrating multi-omics data to get a deeper understanding of the epigenetic landscape and its role in complex human phenotypes. Currently, my research is focused on dissecting the impact of environmental exposures and genotype on DNA methylation variability in early life to understand how and under which conditions these variables may work together or separately to produce changes in this epigenetic mark.
 
 {{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_2021.pdf" "newtab" >}}here{{< /staticref >}}!.
