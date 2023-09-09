@@ -6,7 +6,7 @@ title: Erick I. Navarro-Delgado
 superuser: true
 
 # Role/position/tagline
-role: (he/him) <br /> M.Sc. Student in Bioinformatics 
+role: (he/him) <br /> PhD Student in Bioinformatics 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,20 +14,22 @@ organizations:
   url: https://www.ubc.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include epigenomics, multi-omics data integration and gene-environment interactions. 
+bio: PhD Student in Bioinformatics at the University of British Columbia
 
 # Interests to show in About widget
 interests:
-- Epigenomics
 - Multi-omics data integration
 - Gene-environment interactions
+- Data science
+- Social epigenetics
+- Science outreach
 
 # Education to show in About widget
 education:
   courses:
-  - course: M.Sc. in Bioinformatics
+  - course: PhD in Bioinformatics
     institution: The University of British Columbia
-    year: 2023
+    year: 2026
   - course: B.Sc. in Biology
     institution: Universidad Nacional Autónoma de México
     year: 2021
@@ -64,11 +66,15 @@ social:
 #email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Hi! I am Erick Navarro, a biologist from Mexico. I am currently doing my Masters in Bioinformatics at the University of British Columbia under the co-supervision of [Dr. Keegan Korthauer](https://kkorthauer.org) and [Dr. Michael Kobor](https://www.bcchr.ca/kobor-lab). Previously, as an undergrad, I was part of [Dr. Rodrigo Gonzalez-Barrios'](https://www.researchgate.net/profile/Rodrigo-Gonzalez-Barrios) lab at the Instituto Nacional de Cancerología in Mexico City. 
+¡Hola! 
 
-I am interested in integrating multi-omics data to get a deeper understanding of the epigenetic landscape and its role in complex human phenotypes. Currently, my research is focused on dissecting the impact of environmental exposures and genotype on DNA methylation variability in early life to understand how and under which conditions these variables may work together or separately to produce changes in this epigenetic mark.
+I am a Bioinformatician currently doing his PhD at the University of British Columbia under the co-supervision of [Dr. Keegan Korthauer](https://kkorthauer.org) and [Dr. Michael Kobor](https://www.bcchr.ca/kobor-lab).
+
+I am currently working in developing computational tools to integrate genome, exposome and DNA methylome data to model the factors that contribute to DNA methylation variability across early life. I am approaching this with a multidisciplinary lens that connects biology, psychosocial disciplines and computer science. Using a blend of statistical approaches such as machine learning, variance decomposition and longitudinal data analysis, I aim to improve our understanding of how and under which conditions individual genetic susceptibility and environmental exposures (e.g., psychosocial, biological, physical) may work together to influence DNA methylation in a highly sensitive human developmental period.
+
+I also LOVE science outreach, and I have participated in several programs/clubs to bring science to non-specialized audiences (UBC Let's Talk Science, Sociedad Científica Juvenil, Noche de las Estrellas, etc.). Furthermore, I have current ongoing projects to share coding knowledge with other students through free workshops, specifically targeted to the Latinx community. If you have any idea to collaborate, please send me an email! I am always open to participate in activities that make scientific knowledge more reachable. 
 
 {{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_2021.pdf" "newtab" >}}here{{< /staticref >}}!.
