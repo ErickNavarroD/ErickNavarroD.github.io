@@ -4,7 +4,7 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Erick I. Navarro-Delgado # Website name
+title: Erick Navarro # Website name
 baseurl: 'https://academic-demo.netlify.app/' # Website URL
 copyright: '© 2023 Erick Navarro' # Footer text, e.g. '© {year} Me'
 

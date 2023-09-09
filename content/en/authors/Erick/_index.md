@@ -69,12 +69,10 @@ social:
 highlight_name: true
 ---
 
-¡Hola! 
-
 I am a Bioinformatician currently doing his PhD at the University of British Columbia under the co-supervision of [Dr. Keegan Korthauer](https://kkorthauer.org) and [Dr. Michael Kobor](https://www.bcchr.ca/kobor-lab).
 
-I am currently working in developing computational tools to integrate genome, exposome and DNA methylome data to model the factors that contribute to DNA methylation variability across early life. I am approaching this with a multidisciplinary lens that connects biology, psychosocial disciplines and computer science. Using a blend of statistical approaches such as machine learning, variance decomposition and longitudinal data analysis, I aim to improve our understanding of how and under which conditions individual genetic susceptibility and environmental exposures (e.g., psychosocial, biological, physical) may work together to influence DNA methylation in a highly sensitive human developmental period.
+I am currently working in developing computational tools to integrate genome, exposome and DNA methylome data to model the factors that contribute to DNA methylation variability across early life. I am approaching this with a multidisciplinary lens that connects biology, psychosocial disciplines and computer science. Using a blend of statistical approaches such as machine learning, variance decomposition and longitudinal data analysis, I aim to improve our understanding of how and under which conditions individual genetic susceptibility and environmental exposures (psychosocial, biological, physical, etc.) may work together to influence DNA methylation in a highly sensitive human developmental period.
 
-I also LOVE science outreach, and I have participated in several programs/clubs to bring science to non-specialized audiences (UBC Let's Talk Science, Sociedad Científica Juvenil, Noche de las Estrellas, etc.). I also have current ongoing projects to share coding knowledge with other students through free workshops, specifically targeted to the Latinx community. If you have any idea or want to collaborate, please send me an email! I am always open to participate in activities that make scientific knowledge more reachable. 
+Another passion of mine is science outreach; I have participated in several programs/clubs that share science with non-specialized audiences (UBC Let's Talk Science, Sociedad Científica Juvenil, Noche de las Estrellas, etc.). I have current ongoing projects to build coding skills (mainly R) in students through free workshops, specially targeted at the Latinx community. If you have any idea or want to collaborate, please send me an email! I am always open to participate in activities that make scientific knowledge more accessible. 
 
 {{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_2021.pdf" "newtab" >}}here{{< /staticref >}}!.
