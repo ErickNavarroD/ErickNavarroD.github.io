@@ -7,23 +7,20 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Experience
-    url: '#experience'
+  - name: Projects
+    url: '#projects'
     weight: 20
-  - name: Accomplishments
-    url: '#accomplishments'
-    weight: 30
   - name: Software
     url: '#software'
-    weight: 40
+    weight: 30
   - name: Talks
     url: '#talks'
-    weight: 50
+    weight: 40
   - name: Learning resources
     url: '#resources'
-    weight: 60
+    weight: 50
   - name: Publications
     url: '#publications'
-    weight: 70
+    weight: 60
 
 
