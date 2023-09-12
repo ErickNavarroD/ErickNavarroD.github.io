@@ -9,7 +9,7 @@ author_notes:
 - "Co-supervisor"
 - "Co-supervisor"
 date: "2021-04-01T00:00:00Z"
-doi: "https://doi.org/10.1201/9781003005926"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-04-01T00:00:00Z"
@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: http://132.248.9.195/ptd2021/mayo/0812217/Index.html
+url_pdf: http://132.248.9.195/ptd2021/mayo/0812217/Index.html
 url_code: ''
 url_dataset: ''
 url_poster: ''
