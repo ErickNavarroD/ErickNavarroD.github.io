@@ -1,5 +1,5 @@
 ---
-title: "Comparative transcriptome analysis reveals key epigenetic targets in SARS-CoV-2 infection"
+title: "Molecular characterization of a flatworm Girardia isolate from Guanajuato, Mexico"
 authors:
 - Elizabeth M Duncan
 - Stephanie H Nowotarski
@@ -19,11 +19,11 @@ author_notes:
 -
 -
 - " Erick I. Navarro-Delgado was part of the Clubes the Ciencia México Workshop for Developmental Biology"
-date: "2021-05-01T00:00:00Z"
+date: "2022-09-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.ydbio.2022.06.003"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-01T00:00:00Z"
+publishDate: "2022-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,24 +32,22 @@ publishDate: "2021-05-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*npj Systems Biology and Applications*"
+publication: "*Developmental Biology*"
 publication_short: ""
 
 abstract: Planarian flatworms are best known for their impressive regenerative capacity, yet this trait varies across species. In addition, planarians have other features that share morphology and function with the tissues of many other animals, including an outer mucociliary epithelium that drives planarian locomotion and is very similar to the epithelial linings of the human lung and oviduct. Planarians occupy a broad range of ecological habitats and are known to be sensitive to changes in their environment. Yet, despite their potential to provide valuable insight to many different fields, very few planarian species have been developed as laboratory models for mechanism-based research. Here we describe a previously undocumented planarian isolate, Girardia sp. (Guanajuato). After collecting this isolate from a freshwater habitat in central Mexico, we characterized it at the morphological, cellular, and molecular level. We show that Girardia sp. (Guanajuato) not only shares features with animals in the Girardia genus but also possesses traits that appear unique to this isolate. By thoroughly characterizing this new planarian isolate, our work facilitates future comparisons to other flatworms and further molecular dissection of the unique and physiologically-relevant traits observed in this Girardia sp. (Guanajuato) isolate.
 
 # Summary. An optional shortened abstract.
-summary: Identification of a new species of planaria in Guanajuato, Mexico. 
+summary: Identification of a new species of planarian in Guanajuato, Mexico. 
 
 tags:
-- COVID-19
-- Epigenetics
-- Transcriptomics
+- Biology
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/s41540-021-00181-x.pdf?pdf=button%20sticky
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0012160622001129/pdfft?md5=23af6545fac9a85c22e587fa08de0875&pid=1-s2.0-S0012160622001129-main.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
