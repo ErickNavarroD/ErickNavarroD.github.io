@@ -37,7 +37,7 @@ tags:
 - COVID-19
 - Epigenetics
 - Transcriptomics
-featured: false
+featured: true
 
 # links:
 # - name: ""
