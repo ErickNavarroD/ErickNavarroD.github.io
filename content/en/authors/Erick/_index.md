@@ -75,4 +75,4 @@ I have been developing biomedical research projects for about 8 years, learning 
 
 Another passion of mine is science outreach; I have participated in several programs/clubs that share science with non-specialized audiences (UBC Let's Talk Science, Sociedad Científica Juvenil, Noche de las Estrellas, etc.). I have ongoing projects to build coding skills (mainly R) in students through free workshops, specially targeted at the Latinx community. If you have any idea or want to collaborate, please send me an email! I am always excited to participate in activities that make scientific knowledge more accessible. 
 
-{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/cv_2023.pdf" "newtab" >}}here{{< /staticref >}}! (or you can check my LinkedIn for a more complete list).
+{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/cv_2023.pdf" "newtab" >}}here{{< /staticref >}}! (or you can check my LinkedIn profile for a more complete description).
