@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-omic modeling | Erick I. Navarro Delgado</title>
+    <link>https://academic-demo.netlify.app/es/tag/multi-omic-modeling/</link>
+      <atom:link href="https://academic-demo.netlify.app/es/tag/multi-omic-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-omic modeling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© 2024 Erick Navarro</copyright><lastBuildDate>Thu, 21 Sep 2023 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu5df5d750f55abadf3c012541fcd96d08_48969_512x512_fill_lanczos_center_3.png</url>
+      <title>Multi-omic modeling</title>
+      <link>https://academic-demo.netlify.app/es/tag/multi-omic-modeling/</link>
+    </image>
+    
+    <item>
+      <title>RAMEN - an R package for modeling the genome and exposome contribution to DNA methylome variability</title>
+      <link>https://academic-demo.netlify.app/es/talk/ramen-an-r-package-for-modeling-the-genome-and-exposome-contribution-to-dna-methylome-variability/</link>
+      <pubDate>Thu, 21 Sep 2023 11:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/es/talk/ramen-an-r-package-for-modeling-the-genome-and-exposome-contribution-to-dna-methylome-variability/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Video&lt;/strong&gt; button above to watch the presentation.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

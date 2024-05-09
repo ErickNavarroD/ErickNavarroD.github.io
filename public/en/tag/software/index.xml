@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software | Erick Navarro</title>
+    <link>https://academic-demo.netlify.app/en/tag/software/</link>
+      <atom:link href="https://academic-demo.netlify.app/en/tag/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Erick Navarro</copyright><lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu5df5d750f55abadf3c012541fcd96d08_48969_512x512_fill_lanczos_center_3.png</url>
+      <title>Software</title>
+      <link>https://academic-demo.netlify.app/en/tag/software/</link>
+    </image>
+    
+    <item>
+      <title>Gene-environment contribution to early life DNA methylation</title>
+      <link>https://academic-demo.netlify.app/en/project/genome-exposome-methylome/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/en/project/genome-exposome-methylome/</guid>
+      <description>&lt;p&gt;Infancy and early childhood are highly sensitive periods in human development. Experiences during these stages can have deep biological and psychosocial consequences, which in turn impact future health. DNA methylation (DNAme), an epigenetic tag that is deposited on DNA, can regulate the activity of genes and has been proposed as one of the mechanisms by which early life experiences can become biologically embedded. Previous studies have found that genetics and environmental exposures have some potential to modify DNAme. However, how widely these two factors influence DNAme and whether DNAme variability is mostly driven by their independent or combined contribution is still not well understood.&lt;/p&gt;
+&lt;p&gt;To address this knowledge gap, this projects aims to analyze human cohorts with environmental, genetic and epigenetic data, and develop bioinformatic methodology to understand how, and under which conditions, individual genetic susceptibility and environmental variables work together to influence the molecular processes within our cells that enable early-life experiences to get under our skin.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RAMEN - an R package for modeling the genome and exposome contribution to DNA methylome variability</title>
+      <link>https://academic-demo.netlify.app/en/talk/ramen-an-r-package-for-modeling-the-genome-and-exposome-contribution-to-dna-methylome-variability/</link>
+      <pubDate>Thu, 21 Sep 2023 11:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/en/talk/ramen-an-r-package-for-modeling-the-genome-and-exposome-contribution-to-dna-methylome-variability/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Video&lt;/strong&gt; button above to watch the presentation.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

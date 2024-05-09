@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Erick I. Navarro Delgado</title>
+    <link>https://academic-demo.netlify.app/es/categories/</link>
+      <atom:link href="https://academic-demo.netlify.app/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© 2024 Erick Navarro</copyright>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu5df5d750f55abadf3c012541fcd96d08_48969_512x512_fill_lanczos_center_3.png</url>
+      <title>Categories</title>
+      <link>https://academic-demo.netlify.app/es/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
