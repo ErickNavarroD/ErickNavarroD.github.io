@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Erick Navarro # Website name
 baseurl: 'https://academic-demo.netlify.app/' # Website URL
-copyright: '© 2023 Erick Navarro' # Footer text, e.g. '© {year} Me'
+copyright: '© 2024 Erick Navarro' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

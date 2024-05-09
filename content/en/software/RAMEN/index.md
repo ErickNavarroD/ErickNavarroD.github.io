@@ -1,11 +1,26 @@
 ---
 title: RAMEN - Regional Association of Methylome variability with the Exposome and geNome
 
-summary: R package whose goal is to identify Variable Methylated Regions (VMRs) in microarray DNA methylation data. Additionally, using Genotype (G) and Environmental (E) data, it can identify which G, E, G+E or GxE model better explains this variability.s
+event:  
+event_url: 
 
-
+location:  
+address:
+  street: 
+  city:  
+  region:  
+  postcode:  
+  country:  
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-05-09T13:00:00Z"
+
+summary: R package whose goal is to identify Variable Methylated Regions (VMRs) in microarray DNA methylation data. Additionally, using Genotype (G) and Environmental (E) data, it can identify which G, E, G+E or GxE model better explains this variability.s
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2023-09-21T11:00:00Z"
+#date_end: "2023-09-21T13:00:00Z"
+all_day: false
 
 authors: [Erick I. Navarro-Delgado]
 tags: 
