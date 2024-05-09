@@ -14,7 +14,7 @@ es:
   contentDir: content/es
   title: Erick I. Navarro Delgado
   params:
-    description: Site description in Chinese...
+    description: Site description in Spanish
   menu:
     main:
         - name: Acerca de mí
