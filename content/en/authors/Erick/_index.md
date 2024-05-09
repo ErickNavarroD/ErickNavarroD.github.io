@@ -6,7 +6,7 @@ title: Erick I. Navarro-Delgado
 superuser: true
 
 # Role/position/tagline
-role: (he/him) <br /> PhD Candidate in Bioinformatics 
+role: (he/him) <br /> PhD Student in Bioinformatics 
 
 # Organizations/Affiliations to show in About widget
 organizations:
