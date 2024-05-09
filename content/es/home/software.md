@@ -8,14 +8,14 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 35
 
-title: 'Presentaciones'
+title: 'Software'
 subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: event
+  page_type: software
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Filter on criteria
