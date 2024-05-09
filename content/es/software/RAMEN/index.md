@@ -5,7 +5,7 @@ summary: Paquete de R cuyo objetivo es identificar Regiones Variablemente Metila
 
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2024-05-09T13:00:00Z"
+publishDate: "2024-05-07T13:00:00Z"
 
 authors: [Erick I. Navarro-Delgado]
 tags: 

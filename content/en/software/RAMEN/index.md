@@ -12,7 +12,7 @@ address:
   postcode:  
   country:  
 # Schedule page publish date (NOT talk date).
-publishDate: "2024-05-09T13:00:00Z"
+publishDate: "2024-05-07T13:00:00Z"
 
 summary: R package whose goal is to identify Variable Methylated Regions (VMRs) in microarray DNA methylation data. Additionally, using Genotype (G) and Environmental (E) data, it can identify which G, E, G+E or GxE model better explains this variability.s
 
