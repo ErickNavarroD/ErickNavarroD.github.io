@@ -53,7 +53,7 @@ social:
   link: https://github.com/ErickNavarroD
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/erick-isaac-navarro-delgado-350080b4/
+  link: https://www.linkedin.com/in/erick-i-navarro-delgado/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
