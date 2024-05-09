@@ -2,7 +2,7 @@
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -10,25 +10,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Habilidades
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
+- description: 
+  icon: python
+  icon_pack: fab
+  name: Python
+- description:
+  icon: layer-group
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Machine learning
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
