@@ -77,4 +77,4 @@ He desarrollado proyectos de investigación científica desde el 2015, aprendien
 
 Además de eso, me apasiona la divulgación científica. Tengo proyectos para ayudar a desarrollar capacidades de programación (principalmente en R) en estudiantes a través de talleres gratuitos, especialmente dirigidos a la comunidad Latina. Si tienes alguna idea o quieres colaborar en este aspecto ¡por favor mándame un email! Siempre estoy abierto a participar en actividades que hacen el conocimiento científico más accesible. 
 
-{{< icon name="download" pack="fas" >}} Puedes descargar mi CV {{< staticref "uploads/cv.pdf" "newtab" >}}aquí{{< /staticref >}}! (o puedes revisar mi perfil de LinkedIn para una descripción más completa).
+{{< icon name="download" pack="fas" >}} Puedes descargar mi CV {{< staticref "uploads/cv.pdf" "newtab" >}}aquí{{< /staticref >}}! 

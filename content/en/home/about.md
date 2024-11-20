@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Biography
+title: About me
 
     
 # Choose the user profile to display

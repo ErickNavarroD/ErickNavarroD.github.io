@@ -76,4 +76,4 @@ I have been developing biomedical research projects since 2015, learning wet and
 
 Another passion of mine is science outreach. I have ongoing projects to build coding skills (mainly R) in students through free workshops, specially targeted at the Latinx community. If you have any idea or want to collaborate, please send me an email! I am always excited to participate in activities that make scientific knowledge more accessible. 
 
-{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/cv.pdf" "newtab" >}}here{{< /staticref >}}! (or you can check my LinkedIn profile for a more complete description).
+{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/cv.pdf" "newtab" >}}here{{< /staticref >}}! 
