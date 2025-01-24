@@ -9,7 +9,7 @@ abstract: "Interview for the Agencia Informativa de Educación en México about 
 # Interview start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2016-09-22T11:00:00Z"
-#date_end: "2024-11-18T13:00:00Z"
+date_end: "2016-09-22T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -47,7 +47,7 @@ url_video: "https://www.youtube.com/watch?v=GuWd04X_tXY&t=121s"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: 
 
 
 #Slides can be added in a few ways:
