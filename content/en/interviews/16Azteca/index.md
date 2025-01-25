@@ -4,7 +4,7 @@ title: Mexican student won the Biology Olympiad in Brazil
 event: TV Azteca
 
 summary: TV interview for TV Azteca about the gold medal I got at the 10th Iberoamerican Biology Olympiad.
-abstract: "V interview for TV Azteca about the gold medal I got at the 10th Iberoamerican Biology Olympiad."
+abstract: "TV interview for TV Azteca about the gold medal I got at the 10th Iberoamerican Biology Olympiad."
 
 # Interview start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -64,3 +64,4 @@ projects: []
 Click on the **Interview** button above to watch the interview.
 {{% /callout %}}
 
+TV interview for TV Azteca about the gold medal I got at the 10th Iberoamerican Biology Olympiad.

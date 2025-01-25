@@ -69,3 +69,4 @@ projects: []
 Click on the **Interview** button above to read the interview.
 {{% /callout %}}
 
+Interview for [El Universal](https://www.eluniversal.com.mx/) newspaper about the participation of Mexico in the Iberoamerican Biology Olympiad, where I got the Gold medal.
