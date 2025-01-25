@@ -29,8 +29,8 @@ es:
         - name: Presentaciones
           url: '#talks'
           weight: 40
-        - name: Recursos educativos
-          url: '#resources'
+        - name: Entrevistas
+          url: '#interviews'
           weight: 50
         - name: Publicaciones
           url: '#publications'
