@@ -34,7 +34,7 @@
       href="https://academic-demo.netlify.app/es/courses/example/stats/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/es/</loc><lastmod>2024-02-20T00:00:00+00:00</lastmod><xhtml:link
+    <loc>https://academic-demo.netlify.app/es/</loc><lastmod>2024-05-07T13:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://academic-demo.netlify.app/en/"
@@ -42,6 +42,86 @@
       rel="alternate"
       hreflang="es"
       href="https://academic-demo.netlify.app/es/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/es/authors/</loc><lastmod>2024-05-07T13:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/authors/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/authors/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/es/tag/epigenetics/</loc><lastmod>2024-05-07T13:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/tag/epigenetics/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/tag/epigenetics/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/es/author/erick-i.-navarro-delgado/</loc><lastmod>2024-05-07T13:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/author/erick-i.-navarro-delgado/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/author/erick-i.-navarro-delgado/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/es/tag/multi-omic-modeling/</loc><lastmod>2024-05-07T13:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/tag/multi-omic-modeling/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/tag/multi-omic-modeling/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/es/software/ramen/</loc><lastmod>2024-05-07T13:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/software/ramen/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/software/ramen/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/es/tag/software/</loc><lastmod>2024-05-07T13:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/tag/software/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/tag/software/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/es/software/</loc><lastmod>2024-05-07T13:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/software/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/software/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/es/tags/</loc><lastmod>2024-05-07T13:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/tags/"
     /></url>
   <url>
     <loc>https://academic-demo.netlify.app/es/project/genome-exposome-methylome/</loc><lastmod>2024-02-20T00:00:00+00:00</lastmod><xhtml:link
@@ -64,16 +144,6 @@
       href="https://academic-demo.netlify.app/es/tag/dohad/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/es/tag/epigenetics/</loc><lastmod>2024-02-20T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/tag/epigenetics/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://academic-demo.netlify.app/es/tag/epigenetics/"
-    /></url>
-  <url>
     <loc>https://academic-demo.netlify.app/es/project/</loc><lastmod>2024-02-20T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -82,56 +152,6 @@
       rel="alternate"
       hreflang="es"
       href="https://academic-demo.netlify.app/es/project/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/es/tag/software/</loc><lastmod>2024-02-20T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/tag/software/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://academic-demo.netlify.app/es/tag/software/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/es/tags/</loc><lastmod>2024-02-20T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://academic-demo.netlify.app/es/tags/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/es/authors/</loc><lastmod>2023-09-21T11:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/authors/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://academic-demo.netlify.app/es/authors/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/es/author/erick-i.-navarro-delgado/</loc><lastmod>2023-09-21T11:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/author/erick-i.-navarro-delgado/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://academic-demo.netlify.app/es/author/erick-i.-navarro-delgado/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/es/tag/multi-omic-modeling/</loc><lastmod>2023-09-21T11:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/tag/multi-omic-modeling/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://academic-demo.netlify.app/es/tag/multi-omic-modeling/"
     /></url>
   <url>
     <loc>https://academic-demo.netlify.app/es/event/</loc><lastmod>2023-09-21T11:00:00+00:00</lastmod><xhtml:link
@@ -922,14 +942,4 @@
       rel="alternate"
       hreflang="es"
       href="https://academic-demo.netlify.app/es/author/erick-i.-navarro-delgado/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/es/software/</loc><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/software/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://academic-demo.netlify.app/es/software/"
     /></url></urlset>

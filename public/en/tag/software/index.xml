@@ -5,12 +5,38 @@
     <link>https://academic-demo.netlify.app/en/tag/software/</link>
       <atom:link href="https://academic-demo.netlify.app/en/tag/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Software</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Erick Navarro</copyright><lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Erick Navarro-Delgado</copyright><lastBuildDate>Mon, 18 Nov 2024 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hu5df5d750f55abadf3c012541fcd96d08_48969_512x512_fill_lanczos_center_3.png</url>
       <title>Software</title>
       <link>https://academic-demo.netlify.app/en/tag/software/</link>
     </image>
+    
+    <item>
+      <title>RAMEN- Identificando interacciones gen-ambiente en la metilacion del ADN.</title>
+      <link>https://academic-demo.netlify.app/en/talk/ramen-identificando-interacciones-gen-ambiente-en-la-metilacion-del-adn./</link>
+      <pubDate>Mon, 18 Nov 2024 11:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/en/talk/ramen-identificando-interacciones-gen-ambiente-en-la-metilacion-del-adn./</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Video&lt;/strong&gt; button above to watch the presentation.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RAMEN- Untangling gene-environment contributions to DNA methylome variability</title>
+      <link>https://academic-demo.netlify.app/en/talk/ramen-untangling-gene-environment-contributions-to-dna-methylome-variability/</link>
+      <pubDate>Tue, 12 Nov 2024 11:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/en/talk/ramen-untangling-gene-environment-contributions-to-dna-methylome-variability/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Video&lt;/strong&gt; button above to watch the presentation.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Gene-environment contribution to early life DNA methylation</title>
@@ -32,6 +58,16 @@
     Click on the &lt;strong&gt;Video&lt;/strong&gt; button above to watch the presentation.
   &lt;/div&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RAMEN - Regional Association of Methylome variability with the Exposome and geNome</title>
+      <link>https://academic-demo.netlify.app/en/software/ramen/</link>
+      <pubDate>Thu, 21 Sep 2023 11:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/en/software/ramen/</guid>
+      <description>&lt;p&gt;Regional Association of Methylome variability with the Exposome and geNome (RAMEN) is an R package whose goal is to identify Variable Methylated Regions (VMRs) in microarray DNA methylation data. Additionally, using Genotype (G) and Environmental (E) data, it can identify which G, E, G+E or GxE model better explains this variability.&lt;/p&gt;
+&lt;p&gt;For detailed information please check the &lt;a href=&#34;https://ericknavarrod.github.io/RAMEN/articles/RAMEN.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RAMEN documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

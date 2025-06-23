@@ -5,12 +5,22 @@
     <link>https://academic-demo.netlify.app/es/software/</link>
       <atom:link href="https://academic-demo.netlify.app/es/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Software</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© 2024 Erick Navarro</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© 2025 Erick Navarro-Delgado</copyright><lastBuildDate>Tue, 07 May 2024 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hu5df5d750f55abadf3c012541fcd96d08_48969_512x512_fill_lanczos_center_3.png</url>
       <title>Software</title>
       <link>https://academic-demo.netlify.app/es/software/</link>
     </image>
+    
+    <item>
+      <title>RAMEN - Regional Association of Methylome variability with the Exposome and geNome</title>
+      <link>https://academic-demo.netlify.app/es/software/ramen/</link>
+      <pubDate>Tue, 07 May 2024 13:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/es/software/ramen/</guid>
+      <description>&lt;p&gt;Paquete de R cuyo objetivo es identificar Regiones Variablemente Metiladas en datos de microarreglos de metilación del DNA. Adicionalmente, utilizando datos genéticos (G) y ambientales (E), esta herramienta puede identificar qué modelo (G, E, G+E o GxE) explica mejor su variabilidad.&lt;/p&gt;
+&lt;p&gt;Para mayor información, revisa la &lt;a href=&#34;https://ericknavarrod.github.io/RAMEN/articles/RAMEN.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentación de RAMEN&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OIAB | Erick Navarro</title>
+    <link>https://academic-demo.netlify.app/en/tag/oiab/</link>
+      <atom:link href="https://academic-demo.netlify.app/en/tag/oiab/index.xml" rel="self" type="application/rss+xml" />
+    <description>OIAB</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Erick Navarro-Delgado</copyright><lastBuildDate>Tue, 04 Oct 2016 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu5df5d750f55abadf3c012541fcd96d08_48969_512x512_fill_lanczos_center_3.png</url>
+      <title>OIAB</title>
+      <link>https://academic-demo.netlify.app/en/tag/oiab/</link>
+    </image>
+    
+    <item>
+      <title>Mexican student won the Biology Olympiad in Brazil</title>
+      <link>https://academic-demo.netlify.app/en/interviews/16azteca/</link>
+      <pubDate>Tue, 04 Oct 2016 11:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/en/interviews/16azteca/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Interview&lt;/strong&gt; button above to watch the interview.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;TV interview for TV Azteca about the gold medal I got at the 10th Iberoamerican Biology Olympiad.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mexico - 1,2,3 place in the Biology Olympiad</title>
+      <link>https://academic-demo.netlify.app/en/interviews/16universal/</link>
+      <pubDate>Tue, 27 Sep 2016 11:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/en/interviews/16universal/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Interview&lt;/strong&gt; button above to read the interview.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Interview for &lt;a href=&#34;https://www.eluniversal.com.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;El Universal&lt;/a&gt; newspaper about the participation of Mexico in the Iberoamerican Biology Olympiad, where I got the Gold medal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gold medal at the Iberoamerican Biology Olympiad 2016</title>
+      <link>https://academic-demo.netlify.app/en/interviews/16aiedmx/</link>
+      <pubDate>Thu, 22 Sep 2016 11:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/en/interviews/16aiedmx/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Interview&lt;/strong&gt; button above to watch the interview.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;TV interview for the Agencia Informativa de Educación en México about the gold medal I got at the 10th Iberoamerican Biology Olympiad.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
