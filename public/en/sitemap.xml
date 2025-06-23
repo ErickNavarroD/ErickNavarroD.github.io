@@ -34,7 +34,7 @@
       href="https://academic-demo.netlify.app/en/courses/example/stats/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/en/</loc><lastmod>2024-02-20T00:00:00+00:00</lastmod><xhtml:link
+    <loc>https://academic-demo.netlify.app/en/</loc><lastmod>2025-03-08T11:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="es"
       href="https://academic-demo.netlify.app/es/"
@@ -44,6 +44,82 @@
       href="https://academic-demo.netlify.app/en/"
     /></url>
   <url>
+    <loc>https://academic-demo.netlify.app/en/authors/</loc><lastmod>2025-03-08T11:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/authors/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/authors/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/tag/epigenetics/</loc><lastmod>2025-03-08T11:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/tag/epigenetics/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/tag/epigenetics/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/author/erick-i.-navarro-delgado/</loc><lastmod>2025-03-08T11:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/author/erick-i.-navarro-delgado/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/author/erick-i.-navarro-delgado/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/interviews/25ubyssey/</loc><lastmod>2025-03-08T11:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/interviews/</loc><lastmod>2025-03-08T11:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/tag/salsa/</loc><lastmod>2025-03-08T11:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/tags/</loc><lastmod>2025-03-08T11:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/tags/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/tag/gene-environment-interactions/</loc><lastmod>2024-11-18T11:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/tag/ramen/</loc><lastmod>2024-11-18T11:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/talk/ramen-identificando-interacciones-gen-ambiente-en-la-metilacion-del-adn./</loc><lastmod>2024-11-18T11:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/tag/software/</loc><lastmod>2024-11-18T11:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/tag/software/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/tag/software/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/event/</loc><lastmod>2024-11-18T11:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/event/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/event/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/talk/ramen-untangling-gene-environment-contributions-to-dna-methylome-variability/</loc><lastmod>2024-11-12T11:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/interviews/24cmmt/</loc><lastmod>2024-07-08T11:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://academic-demo.netlify.app/en/tag/dohad/</loc><lastmod>2024-02-20T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="es"
@@ -52,16 +128,6 @@
       rel="alternate"
       hreflang="en"
       href="https://academic-demo.netlify.app/en/tag/dohad/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/en/tag/epigenetics/</loc><lastmod>2024-02-20T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://academic-demo.netlify.app/es/tag/epigenetics/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/tag/epigenetics/"
     /></url>
   <url>
     <loc>https://academic-demo.netlify.app/en/project/genome-exposome-methylome/</loc><lastmod>2024-02-20T00:00:00+00:00</lastmod><xhtml:link
@@ -84,46 +150,6 @@
       href="https://academic-demo.netlify.app/en/project/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/en/tag/software/</loc><lastmod>2024-02-20T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://academic-demo.netlify.app/es/tag/software/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/tag/software/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/en/tags/</loc><lastmod>2024-02-20T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://academic-demo.netlify.app/es/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/tags/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/en/authors/</loc><lastmod>2023-09-21T11:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://academic-demo.netlify.app/es/authors/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/authors/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/en/author/erick-i.-navarro-delgado/</loc><lastmod>2023-09-21T11:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://academic-demo.netlify.app/es/author/erick-i.-navarro-delgado/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/author/erick-i.-navarro-delgado/"
-    /></url>
-  <url>
     <loc>https://academic-demo.netlify.app/en/tag/multi-omic-modeling/</loc><lastmod>2023-09-21T11:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="es"
@@ -144,14 +170,24 @@
       href="https://academic-demo.netlify.app/en/talk/ramen-an-r-package-for-modeling-the-genome-and-exposome-contribution-to-dna-methylome-variability/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/en/event/</loc><lastmod>2023-09-21T11:00:00+00:00</lastmod><xhtml:link
+    <loc>https://academic-demo.netlify.app/en/software/ramen/</loc><lastmod>2023-09-21T11:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://academic-demo.netlify.app/es/event/"
+      href="https://academic-demo.netlify.app/es/software/ramen/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://academic-demo.netlify.app/en/event/"
+      href="https://academic-demo.netlify.app/en/software/ramen/"
+    /></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/software/</loc><lastmod>2023-09-21T11:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://academic-demo.netlify.app/es/software/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/software/"
     /></url>
   <url>
     <loc>https://academic-demo.netlify.app/en/publication-type/2/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><xhtml:link
@@ -896,6 +932,14 @@
       href="https://academic-demo.netlify.app/en/slides/example/"
     /></url>
   <url>
+    <loc>https://academic-demo.netlify.app/en/interviews/16azteca/</loc><lastmod>2016-10-04T11:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/tag/oiab/</loc><lastmod>2016-10-04T11:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/interviews/16universal/</loc><lastmod>2016-09-27T11:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/en/interviews/16aiedmx/</loc><lastmod>2016-09-22T11:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://academic-demo.netlify.app/en/admin/</loc><xhtml:link
       rel="alternate"
       hreflang="es"
@@ -924,14 +968,4 @@
       rel="alternate"
       hreflang="en"
       href="https://academic-demo.netlify.app/en/author/erick-i.-navarro-delgado/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/en/software/</loc><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://academic-demo.netlify.app/es/software/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/software/"
     /></url></urlset>
