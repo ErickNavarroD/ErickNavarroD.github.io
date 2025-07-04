@@ -10,12 +10,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: 'Interviews'
+title: 'News'
 subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: interviews
+  page_type: news
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Filter on criteria

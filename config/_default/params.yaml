@@ -109,7 +109,7 @@ projects:
   post_view: 2
   publication_view: 2
   talk_view: 2
-  interviews_view: 2
+  news_view: 2
 breadcrumb:
   page_types:
     book: true
@@ -121,7 +121,7 @@ comments:
     project: true
     publication: true
     event: true
-    interviews: true
+    news: true
   disqus:
     shortname: ''
     show_count: true

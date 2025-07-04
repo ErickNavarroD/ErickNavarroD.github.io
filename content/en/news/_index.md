@@ -1,5 +1,5 @@
 ---
-title: Interviews
+title: News
 
 # View.
 #   1 = List

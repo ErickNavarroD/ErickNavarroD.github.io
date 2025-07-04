@@ -29,8 +29,8 @@ es:
         - name: Presentaciones
           url: '#talks'
           weight: 40
-        - name: Entrevistas
-          url: '#interviews'
+        - name: Noticias
+          url: '#news'
           weight: 50
         - name: Publicaciones
           url: '#publications'
