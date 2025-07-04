@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:Erick.NavarroDelgado@bcchr.ca
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ErickNavDel
+# - icon: brands/bluesky
+#   icon_pack: brands
+#   link: https://bsky.app/profile/ericknavarro.bsky.social
 - icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fab
   link: https://www.researchgate.net/profile/Erick-I-Navarro-Delgado
