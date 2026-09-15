@@ -48,7 +48,7 @@ tags:
 - DNA methylation
 - Gene-environment interactions
 - R package
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -65,7 +65,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'RAMEN R package'
   focal_point: ""
   preview_only: false
 
